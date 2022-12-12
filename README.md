@@ -4,6 +4,8 @@
 
 1. Try to make impossible states unrepresentable
 1. Things that always go together should be an object/record type
+1. consistency >>> perfection
+2. Don't let perfect be the enemy of good
 
 ## Front-End Checklist
 
